@@ -1,5 +1,5 @@
-##PE Viewer
-#Introduction
+#PE Viewer
+##Introduction
 	A program that reads in a executable file and displays the associated information with it.
-#Features
+##Features
 	For now, it just tells whether a file is an executable or not.
